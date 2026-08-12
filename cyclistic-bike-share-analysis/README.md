@@ -51,38 +51,80 @@ The analysis focused on comparing casual riders and annual members across variou
 ## Key Findings
 
 ### Ride Volume
-![Ride Volume Comparison](visualizations/ride_volume_comparison.png)
-*   Annual members generated a higher ride volume than casual riders throughout the analysis period.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Ride%20volume.png" width="700"></td>
+  </tr>
+</table>
+
+- Annual members generated a higher ride volume than casual riders throughout the analysis period.
 
 ### Ride Duration
-![Average Ride Duration](visualizations/average_ride_duration.png)
-*   Casual riders had an average ride duration that was more than twice as long as annual members. This suggests that casual riders primarily use the bikes for leisure and recreational purposes rather than transportation.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Rider%27s%20average%20ride%20time.png" width="700"></td>
+  </tr>
+</table>
+
+- Casual riders had an average ride duration that was more than twice as long as annual members. This suggests that casual riders primarily use the bikes for leisure and recreational purposes rather than transportation.
 
 ### Usage Patterns
-![Usage Patterns by Time](visualizations/usage_patterns.png)
-*   **Casual rider behavior**
-    *   Average ride duration increased noticeably between 11:00 PM–4:00 AM and 10:00 AM–3:00 PM. Although ride volume during these periods was relatively low, riders tended to take much longer trips.
-    *   Ride volume gradually increased from Thursday onward, peaked on Saturday, and remained high on Sunday. Average ride duration was also longer on weekends, especially Sunday, indicating recreational usage.
-*   **Annual member behavior**
-    *   Average ride duration remained relatively consistent throughout the day.
-    *   Ride volume increased sharply between 3:00 PM and 7:00 PM, corresponding to typical commuting hours after work.
-    *   Ride volume decreased on weekends, unlike casual riders, while ride duration remained fairly stable across the week.
+
+- **Casual rider behavior**
+
+  - Average ride duration increased noticeably between 11:00 PM–4:00 AM and 10:00 AM–3:00 PM. Although ride volume during these periods was relatively low, riders tended to take much longer trips.
+  - Ride volume gradually increased from Thursday onward, peaked on Saturday, and remained high on Sunday. Average ride duration was also longer on weekends, especially Sunday, indicating recreational usage.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Casual%20Rider%27s%20Ride%20Count%20by%20Hour.png" width="450"></td>
+    <td><img src="visualizations/Casual%20Rider%27s%20Ride%20Count%20by%20Weekdays.png" width="450"></td>
+  </tr>
+</table>
+
+- **Annual member behavior**
+
+  - Average ride duration remained relatively consistent throughout the day.
+  - Ride volume increased sharply between 3:00 PM and 7:00 PM, corresponding to typical commuting hours after work.
+  - Ride volume decreased on weekends, unlike casual riders, while ride duration remained fairly stable across the week.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Annual%20Rider%27s%20Ride%20Count%20by%20Hour.png" width="450"></td>
+    <td><img src="visualizations/Annual%20Rider%27s%20Ride%20Count%20by%20Weekday.png" width="450"></td>
+  </tr>
+</table>
 
 ### Bike Type Preference
-![Bike Type Preference](visualizations/bike_type_preference.png)
-*   **Bike type preference**
-    *   Casual riders showed a stronger preference for electric bikes, likely because they provide a more comfortable and enjoyable riding experience.
-    *   Annual members used both bike types more evenly, with no strong preference observed.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Casual%20Rider%27s%20bike%20preference.png" width="450"></td>
+    <td><img src="visualizations/Annual%20Rider%27s%20bike%20preference.png" width="450"></td>
+  </tr>
+</table>
+
+- **Bike type preference**
+  - Casual riders showed a stronger preference for electric bikes, likely because they provide a more comfortable and enjoyable riding experience.
+  - Annual members used both bike types more evenly, with no strong preference observed.
 
 ### Ride Duration Distribution
-![Ride Duration Distribution](visualizations/ride_duration_distribution.png)
-*   **Ride duration distribution**
-    *   Casual riders were more likely to take medium- to long-duration rides.
-    *   Annual members predominantly took short-duration rides.
-*   **Overall Conclusion**
-    *   The analysis indicates two distinct usage patterns:
-        *   Casual riders primarily use the bike-sharing service for leisure and recreation. They prefer longer rides, ride more frequently on weekends and during summer, and tend to choose electric bikes for a more comfortable experience.
-        *   Annual members mainly use the service for daily commuting. Their rides are shorter, more consistent in duration, and concentrated on weekday morning and late afternoon commuting hours.
+
+<table>
+  <tr>
+    <td><img src="visualizations/Ride%20Duration%20Distribution.png" width="700"></td>
+  </tr>
+</table>
+
+- **Ride duration distribution**
+  - Casual riders were more likely to take medium- to long-duration rides.
+  - Annual members predominantly took short-duration rides.
+- **Overall Conclusion**
+  - The analysis indicates two distinct usage patterns:
+    - Casual riders primarily use the bike-sharing service for leisure and recreation. They prefer longer rides, ride more frequently on weekends and during summer, and tend to choose electric bikes for a more comfortable experience.
+    - Annual members mainly use the service for daily commuting. Their rides are shorter, more consistent in duration, and concentrated on weekday morning and late afternoon commuting hours.
 
 ## Recommendations
 *   **Promote Leisure Rides**: Promote leisure rides during weekends and daytime, when casual riders are most active.
