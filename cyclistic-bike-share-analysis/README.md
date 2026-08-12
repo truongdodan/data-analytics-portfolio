@@ -7,7 +7,10 @@ Cyclistic is a fictional bike-share company used in the Google Data Analytics Ca
 To analyze historical bike trip data to identify differences between casual riders and annual members, and to use these insights to develop strategies for converting casual riders into annual members.
 
 ## Data
+
 The dataset consists of 12 monthly CSV files of Divvy bike-share trip data for the year 2022. Each file contains information about individual bike rides, including ride ID, bike type, start/end times, station names, geographical coordinates, and rider type (member/casual).
+
+The original 12 monthly CSV files are not included in this repository due to their large file size. The complete dataset is publicly available from the [Divvy Trip Data repository](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ## Data Preparation
 The 12 monthly datasets were combined into one dataset using Python and Pandas.
