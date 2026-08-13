@@ -1,39 +1,45 @@
-# Your Name
+# TRUONG DAN DO
 
-**Data Analyst**
+**Junior Data Analyst**
 
----
-
-## Navigation
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Contact](#contact)
-
-## About Me
-
-[2–3 sentences]
+Final-year IT student in Hanoi focused on Data Analytics.  
+Interested in using SQL, Python, and data visualization to turn data into practical business insights.
 
 ## Skills
 
-Python | SQL | Excel | Tableau | Power BI
+**SQL** · **Python / Pandas** · **Excel / Google Sheets** · **Tableau** · **PostgreSQL** · **Power BI**
 
 ## Projects
 
 ### Cyclistic Bike-Share Analysis
 
-[short description]
+Analyzed **5.5M+ bike-share rides** to understand differences between casual riders and annual members and identify opportunities to increase annual memberships.
 
-**Tools:** Python, Pandas, Google Sheets, Tableau
+**Tools:** Python, Pandas, SQL, Google Sheets, Tableau
 
-→ View Project
+→ [View Project](./cyclistic-bike-share-analysis)
+
+### Olist E-Commerce SQL Analysis
+
+Exploratory SQL analysis of a real Brazilian e-commerce dataset, answering **12 business questions** across sales, logistics, payments, customer behavior, and seller performance.
+
+**Tools:** PostgreSQL, SQL, pgAdmin
+
+→ [View Project](./olist-sql-analysis)
 
 ## Experience
 
-FPT Software — Data Analyst Intern  
-Luklak — Technical Implementation / No-Code & Automation Intern
+**Business Analyst Intern — HIS365**  
+Healthcare Information System · Asset Management
+
+**Technical Implementation / No-Code & Automation Intern — Luklak**  
+REST APIs · Postman · Data Mapping · Workflow Automation
+
+## Certification
+
+**Google Data Analytics Professional Certificate** — Google / Coursera  
+Completed July 2026
 
 ## Contact
 
-LinkedIn | Email
+**Phone:** 0399961746 · [Email](mailto:dodantruong333@gmail.com)
